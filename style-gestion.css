@@ -1,0 +1,47 @@
+body{
+    height: 400px;
+    background-color: gainsboro;
+    margin-left: 200px;
+    margin-right: 200px;
+    } 
+
+
+form{
+    background-color: gainsboro;
+    margin-left: 200px;
+}    
+
+.header2{
+    background-color:green;
+    color: white;
+    margin-left: 0px;
+    position: center;
+    height: 80px;
+    justify-content: center;
+    display: flex;
+}
+.h1{
+    margin-left: 300px; 
+}
+
+input{
+    width: 800px;
+}
+
+select{
+    width: 800px;
+}
+
+textarea{
+    width: 800px;
+}
+button{
+    background-color:green;   
+    border: 20px ;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+h1.p{
+    font-size: 5px;  
+}

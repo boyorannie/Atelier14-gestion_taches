@@ -1,0 +1,77 @@
+body{
+height: 400px;
+background-color: gainsboro;
+} 
+
+
+
+
+form{
+background-color:white ;
+
+height: 549px;
+width: 100px;
+
+
+}
+
+
+
+.container-fluid
+{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    
+}
+
+.separateur2
+{
+
+    height: 500px;
+    width: 3px;
+}
+
+
+.separateur{
+    background-color:green;
+    margin-left: 0px;
+    margin-top: 14px;
+}
+
+.header{
+    background-color:green;
+    color: white;
+    margin-left: 0px;
+    position: center;
+    height: 50px;
+    justify-content: center;
+    display: flex;
+}
+.header2{
+    background-color:green;
+    color: white;
+    margin-left: 0px;
+    position: center;
+    height: 80px;
+    justify-content: center;
+    display: flex;
+}
+
+button{
+    background-color:green;   
+    border: 4px ;
+    color: white;
+}
+
+section{
+    background-color:white ;
+    position: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+
+.paragraphe{
+    margin-left:10cqb;
+}
